@@ -1,6 +1,6 @@
 {
   "name": "wishme",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "Birthday wish for Ashik vai",
   "main": "main.js",
   "preferGlobal": true,
