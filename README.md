@@ -2,7 +2,7 @@
 
   ### For Get Wishes
 
- . npm install birthday-wishes -g
+ . npm install wishme -g
 
  . run the command in cli=>
  ### Wishme
